@@ -1,4 +1,4 @@
-<img width="250" align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDYwbGVhaHIxaGZyOGVrdTlmbjM5NzE3cm91dGZtdTlyYmVob2ZpYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KG4tZeTXlQzPlbISjT/giphy.gif">
+<img width="250" align="right" src="https://media1.tenor.com/m/EaCAjN3sOLgAAAAC/ascii-saas-security.gif">
 
 
 <h1 align="center">Hi 👋, I'm Ahmed Fawzy</h1>
