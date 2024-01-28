@@ -1,4 +1,4 @@
-<img width="250" align="right" src="https://giphy.com/gifs/ReversingLabs-malware-petya-notpetya-KG4tZeTXlQzPlbISjT">
+<img width="250" align="right" src="https://tenor.com/bV0Za.gif">
 
 
 <h1 align="center">Hi 👋, I'm Ahmed Fawzy</h1>
