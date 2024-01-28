@@ -3,7 +3,7 @@
 
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedmofawzy&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedmofawzy" /> </p>
-<img width="250" align="right" src="[https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif](https://giphy.com/gifs/ReversingLabs-malware-petya-notpetya-KG4tZeTXlQzPlbISjT)">
+
 <p align="left"> <a href="https://twitter.com/ahmedmofawzy" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedmofawzy?logo=twitter&style=for-the-badge" alt="ahmedmofawzy" /></a> </p>
 
 - 🌱 I’m currently learning **Defensive Security**
